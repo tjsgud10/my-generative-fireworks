@@ -96,3 +96,22 @@ I started with a single, simple firework and gradually expanded its visual and i
 ## File
 
 - `generative_fireworks.ipynb`
+---
+
+## Results
+
+### 1. Simple
+
+![Simple Firework](simple.png)
+
+### 2. Preset Style
+
+![Preset Style](preset_style.png)
+
+### 3. Interactive
+
+![Interactive Fireworks](interactive.png)
+
+### 4. 3D-like
+
+![3D-like Fireworks](3d_like.png)
